@@ -25,7 +25,8 @@ main()
 			scanf("%d",&b[j][i]);	
 		}
 		
-    }
+    } 
+    
    	for(j=0;j<2;j++){
    		for(i=0;i<2;i++){
    			c[j][i]=a[j][i]+b[j][i];
